@@ -1,0 +1,4 @@
+F:\Unity 3D\DB\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+D:\0503\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+D:\0506\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+D:\0510_2\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache

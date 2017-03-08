@@ -1,0 +1,212 @@
+System:
+  OS: Windows 7 Service Pack 1 (6.1.7601) 64bit
+  CPU: Intel(R) Core(TM) i5-2450M CPU @ 2.50GHz, count: 4
+  Physical RAM: 4008 MB
+  Addressable RAM: 2048 MB
+
+D3D9:
+  Renderer: Intel(R) HD Graphics Family
+  VendorID: 8086
+  Driver: aticfx32.dll 8.17.10.1072
+  VRAM: 1072 (via DXGI)
+
+OpenGL:
+  Version: 3.1.0 - Build 8.15.10.2476
+  Vendor: Intel
+  Renderer: Intel(R) HD Graphics Family
+  VRAM: 1072 (via DXGI)
+  Extensions: GL_EXT_blend_minmax GL_EXT_blend_subtract GL_EXT_blend_color GL_EXT_abgr GL_EXT_texture3D GL_EXT_clip_volume_hint GL_EXT_compiled_vertex_array GL_SGIS_texture_edge_clamp GL_SGIS_generate_mipmap GL_EXT_draw_range_elements GL_SGIS_texture_lod GL_EXT_rescale_normal GL_EXT_packed_pixels GL_EXT_texture_edge_clamp GL_EXT_separate_specular_color GL_ARB_multitexture GL_EXT_texture_env_combine GL_EXT_bgra GL_EXT_blend_func_separate GL_EXT_secondary_color GL_EXT_fog_coord GL_EXT_texture_env_add GL_ARB_texture_cube_map GL_ARB_transpose_matrix GL_ARB_texture_env_add GL_IBM_texture_mirrored_repeat GL_EXT_multi_draw_arrays GL_NV_blend_square GL_ARB_texture_compression GL_3DFX_texture_compression_FXT1 GL_EXT_texture_filter_anisotropic GL_ARB_texture_border_clamp GL_ARB_point_parameters GL_ARB_texture_env_combine GL_ARB_texture_env_dot3 GL_ARB_texture_env_crossbar GL_EXT_texture_compression_s3tc GL_ARB_shadow GL_ARB_window_pos GL_EXT_shadow_funcs GL_EXT_stencil_wrap GL_ARB_vertex_program GL_EXT_texture_rectangle GL_ARB_fragment_program GL_EXT_stencil_two_side GL_ATI_separate_stencil GL_ARB_vertex_buffer_object GL_EXT_texture_lod_bias GL_ARB_occlusion_query GL_ARB_fragment_shader GL_ARB_shader_objects GL_ARB_shading_language_100 GL_ARB_texture_non_power_of_two GL_ARB_vertex_shader GL_NV_texgen_reflection GL_ARB_point_sprite GL_ARB_fragment_program_shadow GL_EXT_blend_equation_separate GL_ARB_depth_texture GL_ARB_texture_rectangle GL_ARB_draw_buffers GL_ARB_color_buffer_float GL_ARB_half_float_pixel GL_ARB_texture_float GL_ARB_pixel_buffer_object GL_EXT_framebuffer_object GL_ARB_draw_instanced GL_ARB_half_float_vertex GL_EXT_draw_buffers2 GL_WIN_swap_hint GL_EXT_texture_sRGB GL_ARB_multisample GL_EXT_packed_float GL_EXT_texture_shared_exponent GL_ARB_texture_rg GL_ARB_texture_compression_rgtc GL_NV_conditional_render GL_EXT_texture_swizzle GL_ARB_sync GL_ARB_framebuffer_sRGB GL_EXT_packed_depth_stencil GL_ARB_depth_buffer_float GL_EXT_transform_feedback GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_ARB_framebuffer_object GL_EXT_texture_array GL_EXT_texture_integer GL_ARB_map_buffer_range GL_EXT_texture_snorm GL_INTEL_performance_queries GL_ARB_copy_buffer GL_ARB_sampler_objects GL_NV_primitive_restart GL_ARB_seamless_cube_map GL_ARB_uniform_buffer_object GL_ARB_depth_clamp GL_ARB_vertex_array_bgra GL_ARB_draw_elements_base_vertex GL_ARB_fragment_coord_conventions GL_EXT_gpu_program_parameters GL_ARB_compatibility GL_ARB_vertex_array_object 
+
+User locale: zh-CN
+System locale: zh-CN
+
+Running processes:
+TPONSCR.EXE (2200)
+    path: C:\PROGRA~1\Lenovo\HOTKEY\TPONSCR.EXE
+    company:  Lenovo Group Limited
+    product:  On Screen Display
+    filedesc: On screen display drawer
+    filever:  6.6.0.0
+    prodver:  6.6.0.0
+360tray.exe (4592)
+    path: C:\Program Files (x86)\360\360Safe\safemon\360tray.exe
+    company:  360.cn
+    product:  360安全卫士
+    filedesc: 360安全卫士 安全防护中心模块
+    filever:  7.7.3.1121
+    prodver:  7.7.3.1121
+ISCertD_abchina.exe (4612)
+    path: C:\Program Files (x86)\95599 Certificate Tools\FEITIAN extend key\ISCertD_abchina.exe
+    company:  飞天诚信科技股份有限公司
+    product:  中国农业银行二代K宝注册程序
+    filedesc: 中国农业银行二代K宝注册程序
+    filever:  2.0.13.621
+    prodver:  2.0.13.621
+SoftMgrLite.exe (4560)
+    path: C:\Program Files (x86)\360\360Safe\SoftMgr\SML\SoftMgrLite.exe
+    company:  360.cn
+    product:  360软件小助手
+    filedesc: 360软件小助手
+    filever:  3.1.0.1180
+    prodver:  3.1.0.1180
+BaiduPinyin.exe (17096)
+    path: D:\Program Files\Baidu\BaiduPinyin\2.14.2.46\BaiduPinyin.exe
+    company:  Baidu, Inc.
+    product:  百度中文输入法
+    filedesc: 百度中文输入法服务程序
+    filever:  2.14.2.46
+    prodver:  2.14.2.46
+360se.exe (16824)
+    path: D:\Program Files\360se6\Application\360se.exe
+    company:  360.CN
+    product:  360安全浏览器
+    filedesc: 360安全浏览器
+    filever:  7.1.1.566
+    prodver:  7.1.1.566
+360se.exe (17940)
+    path: D:\Program Files\360se6\Application\360se.exe
+    company:  360.CN
+    product:  360安全浏览器
+    filedesc: 360安全浏览器
+    filever:  7.1.1.566
+    prodver:  7.1.1.566
+360se.exe (24476)
+    path: D:\Program Files\360se6\Application\360se.exe
+    company:  360.CN
+    product:  360安全浏览器
+    filedesc: 360安全浏览器
+    filever:  7.1.1.566
+    prodver:  7.1.1.566
+360se.exe (14248)
+    path: D:\Program Files\360se6\Application\360se.exe
+    company:  360.CN
+    product:  360安全浏览器
+    filedesc: 360安全浏览器
+    filever:  7.1.1.566
+    prodver:  7.1.1.566
+360se.exe (16232)
+    path: D:\Program Files\360se6\Application\360se.exe
+    company:  360.CN
+    product:  360安全浏览器
+    filedesc: 360安全浏览器
+    filever:  7.1.1.566
+    prodver:  7.1.1.566
+360se.exe (6352)
+    path: D:\Program Files\360se6\Application\360se.exe
+    company:  360.CN
+    product:  360安全浏览器
+    filedesc: 360安全浏览器
+    filever:  7.1.1.566
+    prodver:  7.1.1.566
+devenv.exe (30436)
+    path: D:\Program Files (x86)\Microsoft Visual Studio 11.0\Common7\IDE\devenv.exe
+    company:  Microsoft Corporation
+    product:  Microsoft? Visual Studio? 2012
+    filedesc: Microsoft Visual Studio 2012
+    filever:  11.0.50727.1
+    prodver:  11.0.50727.1
+WT_WiFi.exe (27952)
+    path: C:\Program Files (x86)\Wifigx\WT_WiFi.exe
+    company:  斑马传媒
+    product:  WT_WiFi
+    filedesc: WT_WiFi
+    filever:  0.12.10.18
+    prodver:  0.12.10.18
+Ssms.exe (25864)
+    path: C:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\VSShell\Common7\IDE\Ssms.exe
+    company:  Microsoft Corporation
+    product:  Microsoft SQL Server
+    filedesc: SSMS - SQL Server Management Studio
+    filever:  2009.100.1600.1
+    prodver:  10.50.1600.1
+QQProtect.exe (13656)
+    path: C:\Program Files (x86)\Tencent\QQ\QQProtect\Bin\QQProtect.exe
+    company:  Tencent
+    product:  腾讯QQ
+    filedesc: QQ安全防护进程
+    filever:  3.9.1.6816
+    prodver:  3.9.1.1
+QQ.exe (13528)
+    path: C:\Program Files (x86)\Tencent\QQ\bin\QQ.exe
+    company:  Tencent
+    product:  腾讯QQ
+    filedesc: 腾讯QQ
+    filever:  6.8.13624.0
+    prodver:  6.8.13624.0
+TXPlatform.exe (17388)
+    path: C:\Program Files (x86)\Tencent\QQ\Bin\TXPlatform.exe
+    company:  Tencent
+    product:  腾讯QQ6.8
+    filedesc: 腾讯QQ多客户端管理服务
+    filever:  6.8.13624.0
+    prodver:  6.8.13624.0
+QQApp.exe (25004)
+    path: C:\Program Files (x86)\Tencent\QQ\bin\QQApp.exe
+    company:  Tencent
+    product:  腾讯QQ
+    filedesc: 腾讯QQ
+    filever:  6.8.13624.0
+    prodver:  6.8.13624.0
+adb.exe (9320)
+    path: D:\Java\adt-bundle-windows-x86_64-20131030\sdk\platform-tools\adb.exe
+    company:  
+    product:  
+    filedesc: 
+    filever:  0.0.0.0
+    prodver:  0.0.0.0
+360se.exe (3572)
+    path: D:\Program Files\360se6\Application\360se.exe
+    company:  360.CN
+    product:  360安全浏览器
+    filedesc: 360安全浏览器
+    filever:  7.1.1.566
+    prodver:  7.1.1.566
+360se.exe (14172)
+    path: D:\Program Files\360se6\Application\360se.exe
+    company:  360.CN
+    product:  360安全浏览器
+    filedesc: 360安全浏览器
+    filever:  7.1.1.566
+    prodver:  7.1.1.566
+360se.exe (22140)
+    path: D:\Program Files\360se6\Application\360se.exe
+    company:  360.CN
+    product:  360安全浏览器
+    filedesc: 360安全浏览器
+    filever:  7.1.1.566
+    prodver:  7.1.1.566
+360se.exe (16308)
+    path: D:\Program Files\360se6\Application\360se.exe
+    company:  360.CN
+    product:  360安全浏览器
+    filedesc: 360安全浏览器
+    filever:  7.1.1.566
+    prodver:  7.1.1.566
+360se.exe (18668)
+    path: D:\Program Files\360se6\Application\360se.exe
+    company:  360.CN
+    product:  360安全浏览器
+    filedesc: 360安全浏览器
+    filever:  7.1.1.566
+    prodver:  7.1.1.566
+Service.exe (23844)
+    path: D:\学习\中软杯\Service_a\Service\bin\Debug\Service.exe
+    company:  
+    product:  Service
+    filedesc: Service
+    filever:  1.0.0.0
+    prodver:  1.0.0.0
+QQExternal.exe (31956)
+    path: C:\Program Files (x86)\Tencent\QQ\bin\QQExternal.exe
+    company:  Tencent
+    product:  腾讯QQ6.8
+    filedesc: 腾讯QQ辅助进程
+    filever:  6.8.13624.0
+    prodver:  6.8.13624.0
+UnityBugReporter.exe (31300)
+    path: D:\Unity 3D\Editor\UnityBugReporter.exe
+    company:  Unity Technologies ApS
+    product:  Unity Bug Reporter
+    filedesc: Unity Bug Reporter
+    filever:  4.3.1.28294
+    prodver:  4.3.1.28294
